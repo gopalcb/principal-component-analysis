@@ -7,7 +7,7 @@
 * We can visualize data upto maximum of 3 dimensions or a dataset containing 3 features. If a dataset has, for example, 20 features, it is not possible to visualize the 20 features in 20 dimensional space.
 * PCA helps us to find the most significant feature in a higher dimensional dataset and makes the data visualization easy in 2D and 3D space.
 
-<h3>Step by step implementation of PCA Algorithm:</h3>
+<h3>Step by step implementation of PCA Algorithm:</h3> 
 
 Suppose that we have a simple dataset with just two attributes x1 and x2.
 
